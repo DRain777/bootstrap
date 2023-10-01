@@ -1,0 +1,23 @@
+.text_color {
+
+
+    color: blueviolet;
+}
+
+
+.nav-background {
+
+
+    background-color: rgb(213, 221, 221) !important;
+
+}
+
+.center {
+    padding-left: calc(50% - 500px);
+    padding-right: calc(50% - 500px);
+
+}
+
+.container_journey{
+    gap: 30px;
+}
